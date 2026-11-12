@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Tenma.
 
-<!--
-**ShiroTenma/ShiroTenma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+a hobbyist Graphics design who stumbled onto CompSci, and surviving.
+Some of the repo are either College works or random ideas with my friend or alone
 
-Here are some ideas to get you started:
+### Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Mainly working with**
+
+![Tech Stack](https://skillicons.dev/icons?i=vue,react,nextjs,mysql&theme=dark)
+
+**Currently learning**
+
+![Learning](https://skillicons.dev/icons?i=php,laravel&theme=dark)
+
+**Tools I use**
+
+![Tools](https://skillicons.dev/icons?i=vscode,figma,docker&theme=dark)
+
